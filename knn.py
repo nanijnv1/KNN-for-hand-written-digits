@@ -1,8 +1,8 @@
 import math
 import operator
-import matplotlib
+#import matplotlib
 
-matplotlib.use('agg')
+#matplotlib.use('agg')
 import matplotlib.pyplot as plt
 
 from sklearn import datasets, svm, metrics
